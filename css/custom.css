@@ -1,0 +1,20 @@
+/*#wide-image{
+	width: 100%;
+	height: auto;
+}
+.photo-wide{
+	width: 100%;
+	position:relative;
+}
+*/.main-header{
+    /*margin: 0 auto;*/
+    margin-top: -400px;
+    /*position: relative;*/
+}
+.text-black{
+	background: black;
+	color: white;
+	font-family: Helvetica;
+	width: 100%;
+	height: auto;
+}

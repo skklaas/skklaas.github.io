@@ -6,7 +6,11 @@
 	width: 100%;
 	position:relative;
 }
-*/.main-header{
+*/
+body{
+	background-color: #3B1C0C;
+}
+.main-header{
     /*margin: 0 auto;*/
     margin-top: -400px;
     /*position: relative;*/

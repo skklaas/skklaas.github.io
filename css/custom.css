@@ -39,7 +39,7 @@ div {
   margin: 62px auto;
   padding: 30px;
   background: #bfbfbf;
-  opacity: 0.75;
+  opacity: 0.85;
   border-radius: 2px;
 }
 
@@ -70,13 +70,13 @@ div {
   opacity: 1;
 }
 
-.center-button {
-  position: relative;
-  display: inline-block;
-  text-align: center;
-  margin-top: 24px;
-  margin-bottom: 24px;
-  width: 50%;
-  left: 25%;
-  right: 25%;
+.show-section {
+  margin-top: 45px;
+  margin-bottom: 20px;
+}
+
+.showcase {
+  width: 100%;
+  height: auto;
+  margin-bottom: 10px;
 }

@@ -46,35 +46,23 @@ div {
 #social-links{
   position: relative;
   margin-bottom: 24px;
-  width: 36%;
-  left: 32%;
-  right: 32%;
+  width: 60%;
+  left: 20%;
+  right: 20%;
 }
-.social-left, .social-mid, .social-right{
+.social {
   color: #800000;
+  display: inline-block;
   opacity: 1;
-  min-width: 36px;
+  width: 19%;
+  min-width: 34px;
+  text-align: center;
 }
-.social-left:hover, .social-mid:hover, .social-right:hover{
+.social:hover {
   color: #b30000;
 }
-.social-left:active, .social-mid:active, .social-right:active{
+.social:active {
   color: #e60000;
-}
-.social-mid{
-  display: inline-block;
-  text-align: center;
-  width: 33%;
-}
-.social-left{
-  float: left;
-  text-align: right;
-  width: 33%;
-}
-.social-right{
-  float: right;
-  text-align: left;
-  width: 33%;
 }
 
 .main-text {

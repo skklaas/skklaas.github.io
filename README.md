@@ -1,2 +1,2 @@
-# conorparrish.com
-Personal website to function as online resume.
+# samanthaklaas.com
+Personal website
